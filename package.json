@@ -1,0 +1,20 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "Learn JS is a react application built to have courses and blogs and everything related to JS frameworks like angular, react, vue JS etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winston32/learn-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winston32/learn-js/issues"
+  },
+  "homepage": "https://github.com/winston32/learn-js#readme"
+}
